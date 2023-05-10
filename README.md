@@ -1,2 +1,1 @@
-# nuevorepopractica
-Homework Modulo 02
+creando nuevo repostitorio  
